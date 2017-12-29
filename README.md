@@ -17,23 +17,48 @@ traffic. This approach also helps us in the reduction of vehicle
 particulate emissions and improving the fuel efficiency, battery
 life in case of electric vehicles.
 
-## Hardware setup:
+## Image seen from camera frame without perspective transformation:
 
 <p align="center">
-  <img src="images/Untitled.png" width="300"/>
+  <img src="images/Videocam_1.png" width="300"/>
 </p>
 
-## Algorithm:
+## Perspective Transformation:
 
 <p align="center">
-  <img src="images/bbea24e7-8175-452d-8e8f-e734a427dba6.jfif" width="350"/>
+  <img src="images/Screenshot from 2017-10-18 00-06-11.png" width="350"/>
 </p>
 
-## Final GUI Window:
+Experiments have been carried out and data has been logged
+for certain conditions. Switching time of the signal has been
+varied as 1,1.5,2 seconds. 
+If the switching time of the signal is 1s, and distance
+of rover from signal is less than 100cm, a speed of 30 rpm
+would be sufficient to cross the signal. When the distance of
+rover from signal exceeds 250 cm, then predicted would
+exceed the maximum speed of vehicle, so the algorithm
+predicts the new speed to make the rover cross the signal at
+the next iteration, so the new predicted speed is brought down
+to 40 rpm.
+It is sufficient that the
+rover maintains a minimum speed of 30 rpm for distance less
+than 150cm in case of signal switching time being 1.5s and
+distance less than 200cm in case of signal switching time
+being 2s, after which the speed increases gradually with the
+distance.
+
+## Instantaneous Output seen in Terminal:
 
 <p align="center">
-  <img src="images/be77002c-f65e-4e7b-a1cc-648dd29f813b.jfif" width="350"/>
+  <img src="images/OP_screen.png" width="350"/>
 </p>
+
+
+Mentions :
+
+A research paper has been accepted relating to this work in a IEEE conference.
+
+### V Jeya Maria Jose, M Anand, Vibashan V S, DC Vivek; "Machine Vision Assisted Elimination of Traffic using Intelligent Control" accepted in the IEEE International Conference on Inventive Systems and Control 2018
 
 
 
