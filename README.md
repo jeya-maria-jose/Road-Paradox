@@ -1,6 +1,21 @@
-# An Artificial Neural Network Based Approach towards Eye Gesture Classification for Texting
+# Machine Vision Assisted Elimination of Traffic using Intelligent Control
 
-The task of typing using the gestures from the eye like left, right, centre, blink by obtaining the eye images from a camera feed has been worked on in this work. A multi-layered neural network is used to recognize the gestures from our eye and an accuracy of 91.6% has been obtained with the image data that were collected and used. With the recognized gestures, an application that aids people to type only using their eye gestures was developed. This method of texting minimizes the muscle movement for paralyzed people or people who suffer from acute illness who would find it difficult to communicate with any other means. The robustness of the application also proves that it can be applied on any handheld device substituting the normal process of texting using keyboard. 
+The traffic density on roads has been on an exponential 
+rise since the advent of automobile revolution. Since
+then there has been some approaches for traffic management
+such as traffic light control based on load, traffic density
+calculation based on IR etc. An efficient algorithm using image
+processing techniques and intelligent control is proposed to
+completely obliterate traffic. The prototype has been developed
+and successfully tested using a miniature model of a rover and a
+wall mounted camera. In real time environments, this setup is
+analogous to cars with GPS and satellite cameras giving live
+traffic data on roads. The algorithm works in such a way that the
+vehicles are tuned to move at a calculated speed at which they
+avoid stopping at traffic signals which leads to reduction of
+traffic. This approach also helps us in the reduction of vehicle
+particulate emissions and improving the fuel efficiency, battery
+life in case of electric vehicles.
 
 ## Hardware setup:
 
