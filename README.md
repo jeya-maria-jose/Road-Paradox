@@ -47,6 +47,15 @@ distance less than 200cm in case of signal switching time
 being 2s, after which the speed increases gradually with the
 distance.
 
+A simulation was tested and validated successfully using Anylogic software.
+The stop lanes are analogous to the signals.
+
+## Simulation Output:
+
+<p align="center">
+  <img src="Screenshot from 2018-02-01 00-05-34.png" width="350"/>
+</p>
+
 ## Instantaneous Output seen in Terminal:
 
 <p align="center">
