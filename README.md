@@ -48,7 +48,7 @@ being 2s, after which the speed increases gradually with the
 distance.
 
 A simulation was tested and validated successfully using Anylogic software.
-The stop lanes are analogous to the signals.
+The stop lanes are analogous to the signals in the below photo.
 
 ## Simulation Output:
 
@@ -69,6 +69,8 @@ A research paper has been accepted relating to this work in a IEEE conference.
 
 ### V Jeya Maria Jose, M Anand, Vibashan V S, DC Vivek; "Machine Vision Assisted Elimination of Traffic using Intelligent Control" ; IEEE International Conference on Inventive Systems and Control 2018 ( ICISC 2018 )
 
+## Simulation Video Link :
+https://drive.google.com/file/d/1YbCorRTut3Z8BakVc2NcKeiG2ujL_xa1/view?usp=sharing
 
 
 
