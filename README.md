@@ -53,7 +53,7 @@ The stop lanes are analogous to the signals.
 ## Simulation Output:
 
 <p align="center">
-  <img src="images/Screenshot from 2018-02-01 00-05-34.png" width="350"/>
+  <img src="images/Screenshot from 2018-02-01 00-05-34.png" width="550"/>
 </p>
 
 ## Instantaneous Output seen in Terminal:
