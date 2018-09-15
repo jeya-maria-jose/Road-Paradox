@@ -59,7 +59,7 @@ The stop lanes are analogous to the signals in the below photo.
 </p>
 
 
-Mentions :
+## Publication:
 
 Check out the research paper <a href="https://ieeexplore.ieee.org/abstract/document/8399076/?reload=true"> here </a>
 
