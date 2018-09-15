@@ -63,7 +63,7 @@ Mentions :
 
 A research paper has been accepted relating to this work in a IEEE conference.
 
-### V Jeya Maria Jose, M Anand, Vibashan V S, DC Vivek; "Machine Vision Assisted Elimination of Traffic using Intelligent Control" ; IEEE International Conference on Inventive Systems and Control 2018 ( ICISC 2018 )
+Check out the paper </a href="https://ieeexplore.ieee.org/abstract/document/8399076/?reload=true" here >
 
 ## Simulation Video Link :
 https://drive.google.com/file/d/1YbCorRTut3Z8BakVc2NcKeiG2ujL_xa1/view?usp=sharing
