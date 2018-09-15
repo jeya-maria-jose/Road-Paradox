@@ -23,11 +23,7 @@ life in case of electric vehicles.
   <img src="images/Videocam_1.png" width="300"/>
 </p>
 
-## Perspective Transformation:
-
-<p align="center">
-  <img src="images/Screenshot from 2017-10-18 00-06-11.png" width="350"/>
-</p>
+## Experiments:
 
 Experiments have been carried out and data has been logged
 for certain conditions. Switching time of the signal has been
