@@ -66,6 +66,18 @@ Check out the research paper <a href="https://ieeexplore.ieee.org/abstract/docum
 ## Simulation Video Link :
 https://drive.google.com/file/d/1YbCorRTut3Z8BakVc2NcKeiG2ujL_xa1/view?usp=sharing
 
+### Citation:
+
+```
+@inproceedings{jose2018machine,
+  title={Machine vision assisted elimination of traffic using intelligent control},
+  author={Jose, V Jeya Maria and Anand, M and Vibashan, VS and Vivek, DC},
+  booktitle={2018 2nd International Conference on Inventive Systems and Control (ICISC)},
+  pages={261--267},
+  year={2018},
+  organization={IEEE}
+}
+```
 
 
 
